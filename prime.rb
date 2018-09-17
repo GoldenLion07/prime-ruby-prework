@@ -8,6 +8,10 @@ def prime?(num)
   end
 end
 
-= begin 
+=begin 
+PseudoCode
 
-= end
+prime method takes a number as an argument
+has a condition that checks if a number is prime or even 
+
+=end
