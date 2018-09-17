@@ -1,4 +1,3 @@
 require 'prime'
-def prime?(number)
-  # Add code here
-end
+
+prime_array
