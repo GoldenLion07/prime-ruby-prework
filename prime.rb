@@ -1,3 +1,3 @@
 require 'prime'
 
-prime_array
+prime_array = prime.take
