@@ -13,5 +13,6 @@ PseudoCode
 
 prime method takes a number as an argument
 has a condition that checks if a number is prime or even 
-
+number is either greater than or equal to 2 
+range of 2-all numbers
 =end
