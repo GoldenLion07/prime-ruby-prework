@@ -1,3 +1,3 @@
 require 'prime'
 
-prime_array = prime.take_while
+prime_array = Prime.take_while
