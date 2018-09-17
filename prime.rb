@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(number)
-  link_to_unless_current
+  # Add code here
 end
